@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UmyFZVwjhOPnyBgHBmQBH3IEbomZyedDq2Osnmpczg0=",
+  "Source": "DotnetApiDocker",
+  "BasePath": "_content/DotnetApiDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
